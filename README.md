@@ -10,6 +10,7 @@ This project combined **TurtleBot3** and **Open Manipulator** to create a mobile
 
 ## ✨ Key Features
 
+- **ROS2 Communications**: Use ROS2 to implement communication between nodes.
 - **Object Detection**: Use YOLO detection to detect the location of the box corresponding to the task.
 - **Calibration**: The actual distance was measured by removing the distortion of the global cam through calibration.
 - **Rotation matrix**: The relative coordinates of the Turtlebot were obtained from the target using a rotation matrix.
